@@ -1,5 +1,14 @@
 {
   "projects": [
+        {
+      "id": "Cubetto1",
+      "name": "Cubetto1"
+    },
+    {
+      "id": "Cubetto2",
+      "name": "Cubetto2"
+    },
+
     {
       "id": "ScuolaDiaz",
       "name": "Scuola Diaz"
