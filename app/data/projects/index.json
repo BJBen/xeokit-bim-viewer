@@ -1,6 +1,10 @@
 {
   "projects": [
     {
+      "id": "ScuolaDiaz",
+      "name": "Scuola Diaz"
+    },
+    {
       "id": "Duplex",
       "name": "Duplex"
     },
