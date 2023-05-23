@@ -1,0 +1,25 @@
+{
+    "id": "Cubetto2",
+    "name": "Cubetto 2",
+    "models": [
+        {
+            "id": "architectural",
+            "name": "Cubetto 2"
+        }
+    ],
+    "viewerConfigs": {
+        "backgroundColor": [
+            0.95,
+            0.95,
+            1.0
+        ]
+    },
+    "viewerContent": {
+        "modelsLoaded": [
+            "architectural"
+        ]
+    },
+    "viewerState": {
+        "tabOpen": "models"
+    }
+}
