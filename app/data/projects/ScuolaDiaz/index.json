@@ -3,8 +3,8 @@
     "name": "Scuola Diaz",
     "models": [
         {
-            "id": "design",
-            "name": "design"
+            "id": "architectural",
+            "name": "Struttura architettonica"
         }
     ],
     "viewerConfigs": {
@@ -16,7 +16,7 @@
     },
     "viewerContent": {
         "modelsLoaded": [
-            "design"
+            "architectural"
         ]
     },
     "viewerState": {
